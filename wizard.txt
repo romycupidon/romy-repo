@@ -1,0 +1,6 @@
+
+name="RomyCupidon Wizard"
+url="https://www.dropbox.com/s/4jqelk3xc9dkie9/plugin.video.RomyBuild-1.0.0.zip?dl=1"
+img="https://www.dropbox.com/s/9awee276vb6ipwu/icon.png?dl=1"
+fanart="https://www.dropbox.com/s/l37pbp7511jf4m0/fanart.jpg?dl=1"
+description="Simplu frate v1.0.0 update"
