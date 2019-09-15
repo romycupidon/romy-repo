@@ -1,0 +1,5 @@
+name="RomyCupidon Wizard"
+url="https://archive.org/download/romybuildandroid18.4A/RomyBUildAndroid.zip"
+img="http://documentarys.do.am/kodi184/icon.png"
+fanart="http://documentarys.do.am/kodi184/fanart.jpg"
+description="Acest build a fost creat pentru voi toti!  Bucurati-va de el!  :)"
